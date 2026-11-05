@@ -103,3 +103,4 @@ cd ~/.config/nvim
 nano README.md   # вставить новое содержимое, Ctrl+O, Ctrl+X
 git add README.md && git commit -m "README: оформление" && git push
 ```
+````markdown
